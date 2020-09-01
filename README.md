@@ -48,4 +48,9 @@ class SortDirection extends StrictEnum
         return $this->getValue() === static::DESC;
     }
 }
+
+
+
+$enum = new SortDirection(SortDirection::ASC);
+
 ```
