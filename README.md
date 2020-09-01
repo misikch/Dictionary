@@ -2,7 +2,7 @@
 Dictionary/enum
 
 # Example (how to use):
-```$xslt
+```php
 
 class SortDirection extends StrictEnum
 {
