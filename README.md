@@ -1,7 +1,7 @@
 # Dictionary
 Dictionary/enum
 
-#example (how to use):
+# Example (how to use):
 ```$xslt
 
 class SortDirection extends StrictEnum
