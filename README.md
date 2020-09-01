@@ -50,7 +50,7 @@ class SortDirection extends StrictEnum
 }
 
 
-
-$enum = new SortDirection(SortDirection::ASC);
+$enum1 = SortDirection::desc();
+$enum2 = new SortDirection(SortDirection::ASC);
 
 ```
