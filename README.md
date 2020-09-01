@@ -4,7 +4,7 @@ Dictionary/enum
 #example (how to use):
 ```$xslt
 
-class SortDirection extends StrictEnumeration
+class SortDirection extends StrictEnum
 {
     const ASC = 'asc';
 
