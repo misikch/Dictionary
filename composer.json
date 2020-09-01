@@ -1,0 +1,15 @@
+{
+    "name": "misikch/dictionary",
+    "description": "Dictionary/enum",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dictionary\\": "src"
+        }
+    }
+}
